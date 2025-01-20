@@ -14,4 +14,4 @@ steps:
     installationPath: $(Agent.ToolsDirectory)/dotnet
 - script: |
     echo "Hello, World!"
-  displayName: 'Run a one-line script buildings'
+  displayName: 'Run a one-line script buildsjob'
